@@ -1,6 +1,3 @@
 branch test
-<<<<<<< HEAD
 new line
-=======
 master newline
->>>>>>> master
