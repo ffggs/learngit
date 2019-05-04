@@ -1,0 +1,3 @@
+[submodule "CoreCode"]
+	path = CoreCode
+	url = https://github.com/ffggs/submodule.git
