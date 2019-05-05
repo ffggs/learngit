@@ -2,3 +2,4 @@ branch test
 master newline
 add one line
 linux add one line
+yes ,linux new line
