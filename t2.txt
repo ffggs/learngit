@@ -1,5 +1,6 @@
 branch test
 master newline
-add one line
+add one line 
+win add one line
 linux add one line
 yes ,linux new line
